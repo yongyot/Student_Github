@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dddd
 ddddddddddddddddddddddddddddddddddddddd
+=======
+dddddddddddddddddddcccccccccccccccccccccccccccc
+>>>>>>> feature/Fearture_2
